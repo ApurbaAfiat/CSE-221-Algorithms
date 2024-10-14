@@ -1,0 +1,3 @@
+3 6
+[4 5 is also a valid answer]
+[print only one output]
